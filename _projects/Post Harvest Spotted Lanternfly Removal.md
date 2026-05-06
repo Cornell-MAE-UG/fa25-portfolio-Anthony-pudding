@@ -14,23 +14,28 @@ harvesting processing. Grapes will travel along the harvesting machine’s conve
 through a rotating brush placed above. The brush will lightly contact the product stream,
 applying enough force to knock off the SLF from the grapes while minimizing product loss.
 
-![Alt text](/assets/images/2.jpg)
+![](/assets/images/2.jpg)
 
 Illustration for design intent:
+![](/assets/images/3.jpg)
 Assembly Instructions:
 1. Assemble the mounts. Put supports together and use CA glue to secure.
+![](/assets/images/4.jpg)
 2. Cut the oak rod down to 12 in. Space the custom-cut brush supports evenly throughout
 the oak rod and use CA glue to secure in place.
 3. Use a rubber mallet to secure the ball bearings on either end of the oak rod. Secure either
 side of both bearings with hot glue.
+![](/assets/images/5.jpg)
 4. Center drill the oak rod and insert a hex bolt. After ensuring concentricity, secure the hex
 bolt in place with CA glue.
 5. Cut the strip brushes to 3 pieces of 20 in. length. Thread the strip brushes through the
 brush supports, winding them a quarter-turn between each support.
+![](/assets/images/6.jpg)
 6. Press the ball bearings into the mounts at an equal height on either end. Ensure the shaft
 can rotate freely without interference from the brushes and trim as needed.
 7. Mount drill to brush assembly by tightening drill chuck to protruding hex bolt. Drive at
 varying speeds.
+![](/assets/images/7.jpg)
 Design Tests
 Our prototype consists of a rotating brush mounted above a conveyor system to remove spotted
 lanternflies (SLF) from grapes during harvesting. The main mechanical risks involve brush
@@ -42,36 +47,8 @@ bristles were from the same supplier and material, and were mounted in the same 
 Thus, the only variable was the length of the bristles. The longer the bristles, the less stiffly they
 would interact with the target. We tested the brush lengths with multiple RPM and summarized
 our observations below.
-Brush Length Observations
-1” (shortest, stiffest) Bristles were highly rigid and transferred
-significant force upon contact. This caused
-frequent grape displacement, which if tested
-with real grapes could cause product damage.
-Clearance issues were observed, with the
-brush aggressively contacting grapes while
-interacting with SLF. While SLF removal
-force was high, the damage and displacement
-to grapes was also noticeably high.
-2” Provided a moderate balance between
-stiffness and flexibility. SLF removal was
-generally effective, but intermittent grape
-displacement still occurred, especially at
-higher RPMs. Some grapes were nudged out
-of alignment or lightly launched, indicating
-that the brush still applied excessive force
-under certain conditions. Clearance improved
-compared to the 1” brush but was not fully
-reliable.
-3” (longest, least stiff) Bristles exhibited greater flexibility, allowing
-them to conform to the grape surface while
-maintaining contact with the modeled SLF.
-This resulted in a scraping or peeling action
-that consistently removed SLF without
-applying enough force to significantly move
-or eject grapes. Grape flow remained stable,
-and clearance issues were minimized.
-Performance was relatively consistent across
-tested RPMs.
+![](/assets/images/8.jpg)
+
 Based on these observations, it is clear that the 3” brush was the most effective. For the
 following test, we used the 3” brush. For our next prototype, we will also use a 3” brush in our
 design.
@@ -84,21 +61,7 @@ masking tape, approximating their weight and clinging tendency. We drove our pro
 cordless drill and measured how many SLF were knocked off and how much our mounting
 moved. By changing the direction of the drill, we also tested whether a clockwise or
 counterclockwise brush rotation was more effective for SLF removal.
-Driving Direction of
-Brush Drill Speed Setting # Modeled SLF
-Knocked Off Movement of Mounts
-Clockwise 1 (≈ 500 RPM) 3/8 Manageable (1-2mm)
-Clockwise 2 (≈ 2,000 RPM) 6/8
-Somewhat unstable
-(> 5mm), added
-weights mitigated
-movement
-Counterclockwise 1 (≈ 500 RPM) 0/8 Manageable (1-2mm)
-Counterclockwise 2 (≈ 2,000 RPM) 0/8
-Somewhat unstable
-(> 5mm), added
-weights mitigated
-movement
+![](/assets/images/9.jpg)
 Conclusion: For drill speeds higher than the first setting, our mounts moved > 5mm. To continue
 our tests, we used weights to keep the mounts in place, but in the future our mounting design
 needs to be updated to be sturdier. In the future, we should also ensure that our shaft is rotating
