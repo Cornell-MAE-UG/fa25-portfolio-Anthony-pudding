@@ -2,21 +2,162 @@
 layout: project
 title: Post Harvest Spotted Lanternfly Removal
 ---
-
 [Go to My Heading](#Client-Pitch) 
+[Go to My Heading](#Functional-Prototype) 
+[Go to My Heading](#Client-Report) 
 
-desfesf
-sef
-sef
-sef
-sef
-sef
-sef
-sfe
-sef
+#Functional-Prototype
+Design Documentation
+Our concept is a filtering brush mechanism designed to remove SLF from grapes during the
+harvesting processing. Grapes will travel along the harvesting machine’s conveyor belt and pass
+through a rotating brush placed above. The brush will lightly contact the product stream,
+applying enough force to knock off the SLF from the grapes while minimizing product loss.
+Component Quantity Fabrication/Purchase
+Mounting Plate 2 In house, Laser Cut Acrylic
+Mounting Base 2 In house, Laser Cut Acrylic
+Mounting Support 4 In house, Laser Cut Acrylic
+Oak Rod, 36" Long, 1"
+Diameter
+1 McMaster, 96825K82
+Brush Support 4 In house, Laser Cut Acrylic
+Hex Bolt 4.5mm 1 In house, Taylor Design
+Studio
+(Length = 5 ft) Food Industry
+Easy-Cut Strip Brush
+1/8" Wide x 3/32" High
+Backing, 1" Overall Height
+1 McMaster, 1469N21
+(Length = 5 ft) Food Industry
+Easy-Cut Strip Brush
+1/8"" Wide x 3/32"" High
+Backing, 2"" Overall Height
+1 McMaster, 1469N22
+(Length = 5 ft) Food Industry
+Easy-Cut Strip Brush
+1/8" Wide x 3/32" High
+Backing, 3" Overall High
+1 McMaster, 1469N23
+Steel Ball Bearing
+Open, Trade Number R16, for
+1"" Shaft Diameter
+2 McMaster, 1469N23
+Illustration for design intent:
+Assembly Instructions:
+1. Assemble the mounts. Put supports together and use CA glue to secure.
+2. Cut the oak rod down to 12 in. Space the custom-cut brush supports evenly throughout
+the oak rod and use CA glue to secure in place.
+3. Use a rubber mallet to secure the ball bearings on either end of the oak rod. Secure either
+side of both bearings with hot glue.
+4. Center drill the oak rod and insert a hex bolt. After ensuring concentricity, secure the hex
+bolt in place with CA glue.
+5. Cut the strip brushes to 3 pieces of 20 in. length. Thread the strip brushes through the
+brush supports, winding them a quarter-turn between each support.
+6. Press the ball bearings into the mounts at an equal height on either end. Ensure the shaft
+can rotate freely without interference from the brushes and trim as needed.
+7. Mount drill to brush assembly by tightening drill chuck to protruding hex bolt. Drive at
+varying speeds.
+Design Tests
+Our prototype consists of a rotating brush mounted above a conveyor system to remove spotted
+lanternflies (SLF) from grapes during harvesting. The main mechanical risks involve brush
+motion and structural stability. The following tests were performed to evaluate mechanical
+performance.
+Test 1: Brush Lengths
+We bought three brush lengths to test for the optimal stiffness of the brushes’ bristles. The
+bristles were from the same supplier and material, and were mounted in the same spiral pattern.
+Thus, the only variable was the length of the bristles. The longer the bristles, the less stiffly they
+would interact with the target. We tested the brush lengths with multiple RPM and summarized
+our observations below.
+Brush Length Observations
+1” (shortest, stiffest) Bristles were highly rigid and transferred
+significant force upon contact. This caused
+frequent grape displacement, which if tested
+with real grapes could cause product damage.
+Clearance issues were observed, with the
+brush aggressively contacting grapes while
+interacting with SLF. While SLF removal
+force was high, the damage and displacement
+to grapes was also noticeably high.
+2” Provided a moderate balance between
+stiffness and flexibility. SLF removal was
+generally effective, but intermittent grape
+displacement still occurred, especially at
+higher RPMs. Some grapes were nudged out
+of alignment or lightly launched, indicating
+that the brush still applied excessive force
+under certain conditions. Clearance improved
+compared to the 1” brush but was not fully
+reliable.
+3” (longest, least stiff) Bristles exhibited greater flexibility, allowing
+them to conform to the grape surface while
+maintaining contact with the modeled SLF.
+This resulted in a scraping or peeling action
+that consistently removed SLF without
+applying enough force to significantly move
+or eject grapes. Grape flow remained stable,
+and clearance issues were minimized.
+Performance was relatively consistent across
+tested RPMs.
+Based on these observations, it is clear that the 3” brush was the most effective. For the
+following test, we used the 3” brush. For our next prototype, we will also use a 3” brush in our
+design.
+Test 2: Maximum Rotation Speed and Brush Direction Test
+We tested the stability of our mounts by seeing how fast we could drive our shaft with a cordless
+drill before our prototype started shaking. We wanted to see the max RPM of our prototype
+before it became ineffective. To evaluate, we made a mock conveyor belt and modeled grapes
+out of clay, each of the approximate weight of a grape (5-7g). We modeled SLF with loops of
+masking tape, approximating their weight and clinging tendency. We drove our prototype using a
+cordless drill and measured how many SLF were knocked off and how much our mounting
+moved. By changing the direction of the drill, we also tested whether a clockwise or
+counterclockwise brush rotation was more effective for SLF removal.
+Driving Direction of
+Brush Drill Speed Setting # Modeled SLF
+Knocked Off Movement of Mounts
+Clockwise 1 (≈ 500 RPM) 3/8 Manageable (1-2mm)
+Clockwise 2 (≈ 2,000 RPM) 6/8
+Somewhat unstable
+(> 5mm), added
+weights mitigated
+movement
+Counterclockwise 1 (≈ 500 RPM) 0/8 Manageable (1-2mm)
+Counterclockwise 2 (≈ 2,000 RPM) 0/8
+Somewhat unstable
+(> 5mm), added
+weights mitigated
+movement
+Conclusion: For drill speeds higher than the first setting, our mounts moved > 5mm. To continue
+our tests, we used weights to keep the mounts in place, but in the future our mounting design
+needs to be updated to be sturdier. In the future, we should also ensure that our shaft is rotating
+about its center axle, since small misalignments in rotation can cause instability. From our data,
+we can also conclude that we should drive our prototype in the clockwise direction to increase
+SLF removal. At high speeds, the brush bristles started falling off, so we should also look at
+higher quality brushes for our next prototype.
+Success Criteria
+“A machine that can be attached to current harvester conveyer belts to remove SLF from grapes
+just harvested from vines,” and:
+● The brushes should not damage, crush, or visibly harm more than 5% of grapes. Lower
+damage rates are a high priority and minimize product loss. This criteria is relevant to our
+exhibition day demonstration of our prototype as our clients have emphasized product
+loss as a major problem in current SLF removal systems. We can incorporate it by
+running real grapes through our prototype and showing the number of grapes harmed vs.
+the total number of grapes passed through our prototype.
+● The brushes should be tuned to remove at least 90% of SLF from grapes in a single pass.
+High removal rates are a high priority and to prevent product rejection.
+● The system should be able to withstand rotations of up to 2500 rpm, without shifting
+more than 5mm under operational conditions. Greater stability is a medium priority.
+● The brush geometry and layout should be able to clear 90% of debris regardless of brush
+length. Allowing for different configurations would enable widespread use among
+different harvesters and processing units. This is a medium priority.
+● The system should be able to process grapes on a conveyor belt at a speed of 1 m/s.
+Higher speeds are a medium priority.
+We will measure our criteria by building a mock conveyor belt and modelling grapes and SLF as
+our product stream. We will count the number of SLF in the product stream before passing the
+grape/SLF mixture through our prototype. We will measure the rpm of our prototype, the number
+of SLF removed from the mixture, the number of grapes damaged, and any distances our
+prototype may have shifted during operational use. We will also be able to measure the speed of
+our mock conveyor belt by either timing the distance it covers or driving it with a motor.
 
-sef
-#Client-Pitch
+
+#Client-Report
 
 Post Harvest Spotted Lanternfly Removal
 Team: DEAd heAD  |  Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -57,24 +198,6 @@ Decision affected: Determines whether mechanical separation is viable or if remo
 Decision affected: Defines integration limits so the design fits operational and regulatory realities, and supports solutions that can scale across facilities without major infrastructure changes.
 3. Which forms of product damage are least acceptable (juice release, skin breakage, berry loss, or cluster disruption)? Please rank if possible.
 Decision affected: Sets force and contact limits, guiding mechanism selection and tuning so the design minimizes losses within acceptable damage tolerances.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
