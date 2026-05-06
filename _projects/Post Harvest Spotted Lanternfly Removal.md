@@ -17,25 +17,35 @@ applying enough force to knock off the SLF from the grapes while minimizing prod
 ![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/2.jpg)
 
 Illustration for design intent:
-![](/assets/images/3.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/3.jpg)
+
 Assembly Instructions:
 1. Assemble the mounts. Put supports together and use CA glue to secure.
-![](/assets/images/4.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/4.jpg)
+
 2. Cut the oak rod down to 12 in. Space the custom-cut brush supports evenly throughout
 the oak rod and use CA glue to secure in place.
 3. Use a rubber mallet to secure the ball bearings on either end of the oak rod. Secure either
 side of both bearings with hot glue.
-![](/assets/images/5.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/5.jpg)
+
 4. Center drill the oak rod and insert a hex bolt. After ensuring concentricity, secure the hex
 bolt in place with CA glue.
 5. Cut the strip brushes to 3 pieces of 20 in. length. Thread the strip brushes through the
 brush supports, winding them a quarter-turn between each support.
-![](/assets/images/6.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/6.jpg)
+
 6. Press the ball bearings into the mounts at an equal height on either end. Ensure the shaft
 can rotate freely without interference from the brushes and trim as needed.
 7. Mount drill to brush assembly by tightening drill chuck to protruding hex bolt. Drive at
 varying speeds.
-![](/assets/images/7.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/7.jpg)
+
 Design Tests
 Our prototype consists of a rotating brush mounted above a conveyor system to remove spotted
 lanternflies (SLF) from grapes during harvesting. The main mechanical risks involve brush
@@ -47,7 +57,8 @@ bristles were from the same supplier and material, and were mounted in the same 
 Thus, the only variable was the length of the bristles. The longer the bristles, the less stiffly they
 would interact with the target. We tested the brush lengths with multiple RPM and summarized
 our observations below.
-![](/assets/images/8.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/8.jpg)
 
 Based on these observations, it is clear that the 3” brush was the most effective. For the
 following test, we used the 3” brush. For our next prototype, we will also use a 3” brush in our
@@ -61,7 +72,9 @@ masking tape, approximating their weight and clinging tendency. We drove our pro
 cordless drill and measured how many SLF were knocked off and how much our mounting
 moved. By changing the direction of the drill, we also tested whether a clockwise or
 counterclockwise brush rotation was more effective for SLF removal.
-![](/assets/images/9.jpg)
+
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/9.jpg)
+
 Conclusion: For drill speeds higher than the first setting, our mounts moved > 5mm. To continue
 our tests, we used weights to keep the mounts in place, but in the future our mounting design
 needs to be updated to be sturdier. In the future, we should also ensure that our shaft is rotating
