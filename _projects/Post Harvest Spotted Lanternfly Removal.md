@@ -14,7 +14,7 @@ harvesting processing. Grapes will travel along the harvesting machine’s conve
 through a rotating brush placed above. The brush will lightly contact the product stream,
 applying enough force to knock off the SLF from the grapes while minimizing product loss.
 
-![img](/assets/images/2.jpg)
+![img](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-Anthony-pudding/main/assets/images/2.jpg)
 
 Illustration for design intent:
 ![](/assets/images/3.jpg)
