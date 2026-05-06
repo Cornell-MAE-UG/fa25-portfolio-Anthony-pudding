@@ -7,40 +7,15 @@ title: Post Harvest Spotted Lanternfly Removal
 [Go to client report](#client-report) 
 
 # functional-prototype
+
 Design Documentation
 Our concept is a filtering brush mechanism designed to remove SLF from grapes during the
 harvesting processing. Grapes will travel along the harvesting machine’s conveyor belt and pass
 through a rotating brush placed above. The brush will lightly contact the product stream,
 applying enough force to knock off the SLF from the grapes while minimizing product loss.
-Component Quantity Fabrication/Purchase
-Mounting Plate 2 In house, Laser Cut Acrylic
-Mounting Base 2 In house, Laser Cut Acrylic
-Mounting Support 4 In house, Laser Cut Acrylic
-Oak Rod, 36" Long, 1"
-Diameter
-1 McMaster, 96825K82
-Brush Support 4 In house, Laser Cut Acrylic
-Hex Bolt 4.5mm 1 In house, Taylor Design
-Studio
-(Length = 5 ft) Food Industry
-Easy-Cut Strip Brush
-1/8" Wide x 3/32" High
-Backing, 1" Overall Height
-1 McMaster, 1469N21
-(Length = 5 ft) Food Industry
-Easy-Cut Strip Brush
-1/8"" Wide x 3/32"" High
-Backing, 2"" Overall Height
-1 McMaster, 1469N22
-(Length = 5 ft) Food Industry
-Easy-Cut Strip Brush
-1/8" Wide x 3/32" High
-Backing, 3" Overall High
-1 McMaster, 1469N23
-Steel Ball Bearing
-Open, Trade Number R16, for
-1"" Shaft Diameter
-2 McMaster, 1469N23
+
+![Alt text](/assets/images/2.jpg)
+
 Illustration for design intent:
 Assembly Instructions:
 1. Assemble the mounts. Put supports together and use CA glue to secure.
