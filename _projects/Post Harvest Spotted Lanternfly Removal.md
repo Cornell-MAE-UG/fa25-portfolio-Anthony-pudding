@@ -2,11 +2,11 @@
 layout: project
 title: Post Harvest Spotted Lanternfly Removal
 ---
-[Go to My Heading](#Client-Pitch) 
-[Go to My Heading](#Functional-Prototype) 
-[Go to My Heading](#Client-Report) 
+[Go to client pitch](#client-pitch) 
+[Go to functional prototype](#functional-prototype) 
+[Go to client report](#client-report) 
 
-#Functional-Prototype
+#functional-prototype
 Design Documentation
 Our concept is a filtering brush mechanism designed to remove SLF from grapes during the
 harvesting processing. Grapes will travel along the harvesting machine’s conveyor belt and pass
